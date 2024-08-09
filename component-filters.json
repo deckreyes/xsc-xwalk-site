@@ -34,7 +34,8 @@
         "featured-article",
         "blockquote",
         "article-details",
-        "content-fragment"
+        "content-fragment",
+        "workfront-reference"
       ]
     },
     {
