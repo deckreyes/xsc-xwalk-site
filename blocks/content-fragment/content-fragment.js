@@ -1,5 +1,5 @@
 // put your AEM publish address here
-const aem_publish = "https://publish-p131639-e1282833.adobeaemcloud.com/";
+const aem_publish = "https://publish-p131639-e1282833.adobeaemcloud.com";
 const AEM_HOST = checkDomain()
 
 function checkDomain(){
